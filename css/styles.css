@@ -436,7 +436,7 @@ a {
 
 .footer-social-list {
   display: flex;
-  gap: 24px;
+  gap: 16px;
   justify-content: center;
 }
 .footer-social-item {
